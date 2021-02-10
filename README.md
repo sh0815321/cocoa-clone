@@ -1,3 +1,3 @@
 # Kokoa Clone Challenge
 
-CSS got so much better!
+I love HTML & CSS~!!
